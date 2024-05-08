@@ -30,7 +30,7 @@ Below is one of many ways to setup a Virtual environment: After cloning the repo
 
 We used `1000` simulations by sampling parameters `Gamma`, `Reg_Param` and `Adhesion` (Ref: CellModeller documentation) [here](https://github.com/cellmodeller/CellModeller/wiki).
 We had `100` parameter sets and `10` simulations for each set.
-Our dataset is available for download [here](https://drive.google.com/file/d/1EnK8sRyb-E441AweC1uarrfe-ReAHRVH/view?usp=sharing), move it to the `Data` directory after downloading.
+Our dataset is available for download [here](https://drive.google.com/file/d/1EnK8sRyb-E441AweC1uarrfe-ReAHRVH/view), move it to the `Data` directory after downloading.
 
 ## Files
 
